@@ -8,7 +8,7 @@ import org.openqa.selenium.WebElement;
 import org.openqa.selenium.chrome.ChromeDriver;
 
 public class IncreaseQuantity {
-	
+	//added this command
 	static String URL =("https://juice-shop.herokuapp.com/#/login");
 	static WebDriver driver;
 	
