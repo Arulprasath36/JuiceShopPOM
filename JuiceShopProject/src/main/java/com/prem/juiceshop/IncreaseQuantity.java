@@ -11,6 +11,7 @@ public class IncreaseQuantity {
 	//added this command
 	static String URL =("https://juice-shop.herokuapp.com/#/login");
 	static WebDriver driver;
+	static String URL =("https://juice-shop.herokuapp.com/#/login");
 	
 	
 	public static void preCondition() {
